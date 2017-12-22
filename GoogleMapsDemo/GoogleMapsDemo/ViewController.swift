@@ -56,7 +56,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
         // Creates a marker in the  currentLocation of the map.
         let markerMyLocation = GMSMarker()
         markerMyLocation.position = CLLocationCoordinate2D(latitude: 13.026032, longitude: 77.626776)
-        markerMyLocation.title = "Current Location"
+        markerMyLocation.title = "Current Location" 
         // marker color = green
         markerMyLocation.icon = GMSMarker.markerImageWithColor(UIColor.greenColor())
         markerMyLocation.map = mapView
