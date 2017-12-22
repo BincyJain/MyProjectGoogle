@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "66BEF3D81679AC0A9D6F330A6416BB8054C9A732",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "66BEF3D81679AC0A9D6F330A6416BB8054C9A732" : 0,
+    "B1249FA5233BAD198EC6F540A7C9D18FD99FAD6A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "76B8E4BD-B7BF-4EA0-AE5F-CF5AD5969687",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "66BEF3D81679AC0A9D6F330A6416BB8054C9A732" : "MyProjectGoogle\/",
+    "B1249FA5233BAD198EC6F540A7C9D18FD99FAD6A" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GoogleMapsDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GoogleMapsDemo\/GoogleMapsDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/BincyJain\/MyProjectGoogle.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "66BEF3D81679AC0A9D6F330A6416BB8054C9A732"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/BincyJain\/GoogleMapIntegration.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B1249FA5233BAD198EC6F540A7C9D18FD99FAD6A"
+    }
+  ]
+}
